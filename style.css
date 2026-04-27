@@ -1,0 +1,26 @@
+/* *{
+    color: orange;
+}
+h1{
+    color: blue;
+}
+.container{
+    color: blueviolet;
+}
+h3{
+    color: chocolate;
+}
+#h3{
+    color: grey;
+} */
+.text{
+    /* font-family :cursive; */
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 550;
+    font-style: italic;
+    line-height: 40px;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
