@@ -1,0 +1,1 @@
+export const car2 = "https://ik.imagekit.io/fawaz04/MERN%2023/car2.avif"
